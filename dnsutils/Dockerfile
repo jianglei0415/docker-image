@@ -1,1 +1,1 @@
-FRON tutum/dnsutils:latest
+FROM tutum/dnsutils:latest
